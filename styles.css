@@ -1,0 +1,38 @@
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+table {
+    margin-left: 5%;
+    width: 90%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    background: rgb(0, 36, 32);
+    background: linear-gradient(90deg, rgba(0, 36, 32, 0.823063428748609) 0%, rgba(9, 121, 63, 0.29487351776938053) 43%, rgba(7, 137, 97, 1) 69%, rgba(0, 212, 255, 0.19398331005424707) 100%);
+    padding: 1.5%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.subject {
+    background-color: rgb(150, 206, 180);
+}
+
+.footer1 {
+    text-align: center;
+    padding: 3%;
+    background-color: grey;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background: rgb(95, 150, 141);
+    background: linear-gradient(90deg, rgba(95, 150, 141, 1) 0%, rgba(125, 143, 146, 1) 38%, rgba(153, 153, 153, 1) 69%, rgba(29, 29, 29, 1) 100%);
+}
