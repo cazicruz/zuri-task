@@ -15,6 +15,10 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    padding: 5px;
+}
+
 .container {
     background: rgb(0, 36, 32);
     background: linear-gradient(90deg, rgba(0, 36, 32, 0.823063428748609) 0%, rgba(9, 121, 63, 0.29487351776938053) 43%, rgba(7, 137, 97, 1) 69%, rgba(0, 212, 255, 0.19398331005424707) 100%);
